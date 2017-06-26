@@ -19,4 +19,6 @@ mv iTerm ~/Applications
 sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
 # git changes
+# still not seeing git diff.  need to figure out how to see those changes.
+# might be something to bake into gitconfig?
 git config --global color.ui true
